@@ -1,4 +1,4 @@
-# Project P4 milestone
+# Applied Data Analysis, EPFL
 
 ```project.ipynb``` is our final notebook.
 
